@@ -2,6 +2,8 @@
 
 ### Data science Virtual Internship Programme by British Airways (BA) through Forage!
 
+![logo](https://github.com/Abdul-Jaweed/British-Airways-Virtual-Experience-Programme/blob/main/british_airways-logo.png)
+
 
 # Task 1 : WEB SCRAPING TO GAIN COMPANY INSIGHTS
 
