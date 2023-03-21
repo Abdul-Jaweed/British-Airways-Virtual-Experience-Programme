@@ -5,6 +5,10 @@
 ![logo](https://github.com/Abdul-Jaweed/British-Airways-Virtual-Experience-Programme/blob/main/british_airways-logo.png)
 
 
+British Airways (BA) is the flag carrier airline of the United Kingdom, headquartered in London. It is one of the largest airlines in Europe, with a fleet of over 280 aircraft and serves more than 200 destinations worldwide. The airline offers various classes of travel, including First, Business, Premium Economy, and Economy, with a range of in-flight entertainment options, meals, and beverages. BA is a founding member of the Oneworld airline alliance and has codeshare agreements with many other airlines. The airline operates from two main hubs at London Heathrow Airport and Gatwick Airport, and is known for its punctuality, reliability, and quality of service.
+
+
+
 # Task 1 : WEB SCRAPING TO GAIN COMPANY INSIGHTS
 
 
