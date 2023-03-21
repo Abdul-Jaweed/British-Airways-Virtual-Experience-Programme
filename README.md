@@ -30,3 +30,11 @@ This is possible with the use of data and predictive models. The most important 
 
 With your predictive model, it is important to interpret the results in order to understand how “predictive” the data really was and whether we can feasibly use it to predict the target outcome (customers buying holidays). Therefore, you should evaluate the model's performance and output how each variable contributes to the predictive model's power.
 
+
+ - creating a classification model to predict customer buying behaviour
+ - preparing a powerpoint representation to highlight our insights and analysis
+
+
+### Program Link : [Forage](https://www.theforage.com/virtual-internships/NjynCWzGSaWXQCxSX?ref=EELMasFZu8H7sGv4t)
+
+### Completion Certificate Link : [Certificate](https://www.theforage.com/achievements?ref=EELMasFZu8H7sGv4t)
