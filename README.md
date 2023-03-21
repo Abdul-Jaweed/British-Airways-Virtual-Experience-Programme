@@ -1,6 +1,6 @@
 # British Airways Virtual Experience Programme
 
-## Data science Virtual Internship Programme by British Airways (BA) through Forage!
+### Data science Virtual Internship Programme by British Airways (BA) through Forage!
 
 
 # Task 1 : WEB SCRAPING TO GAIN COMPANY INSIGHTS
